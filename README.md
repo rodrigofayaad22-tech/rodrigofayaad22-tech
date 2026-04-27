@@ -15,7 +15,7 @@ Busco oportunidades na área de tecnologia, principalmente em desenvolvimento, s
     <img 
       alt="LinkedIn" 
       title="Meu LinkedIn"
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://www.linkedin.com/in/rodrigo-generoso-498b29378/"
     />
   </a>
 
