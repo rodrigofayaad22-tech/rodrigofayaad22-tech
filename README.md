@@ -10,42 +10,6 @@ Busco oportunidades na área de tecnologia, principalmente em desenvolvimento, s
 
 ---
 
-<p align="left">
-  <a href="SEU_LINKEDIN_AQUI">
-    <img 
-      alt="LinkedIn" 
-      title="Meu LinkedIn"
-      src="https://www.linkedin.com/in/rodrigo-generoso-498b29378/"
-    />
-  </a>
-
-  <a href="SEU_PORTFOLIO_AQUI">
-    <img 
-      alt="Portfólio" 
-      title="Meu Portfólio"
-      src="https://custom-icon-badges.demolab.com/badge/Portfólio-Acessar-green?style=for-the-badge&logo=browser&logoColor=white"
-    />
-  </a>
-
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img 
-      alt="E-mail" 
-      title="Me envie um e-mail"
-      src="https://custom-icon-badges.demolab.com/badge/E--mail-Contato-red?style=for-the-badge&logo=mail&logoColor=white"
-    />
-  </a>
-
-  <a href="https://github.com/SEU_USUARIO?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-</p>
-
----
-
 ### 🚀 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software**
