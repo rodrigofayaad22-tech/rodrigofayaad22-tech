@@ -103,6 +103,7 @@ Busco oportunidades na área de tecnologia, principalmente em desenvolvimento, s
 
 ### 📚 Estudando atualmente
 
+- C
 - Java
 - Lógica de programação
 - Programação orientada a objetos
@@ -141,4 +142,7 @@ Projeto em desenvolvimento para gerenciamento de tarefas com organização por s
 #### 🤖 AI Content Engine
 Projeto focado em geração automatizada de conteúdo com inteligência artificial, envolvendo backend, API, banco de dados e integração com serviços externos.
 
+###Contatos
+
+Linkedin: https://www.linkedin.com/in/rodrigo-generoso-498b29378/
 ---
